@@ -12,18 +12,18 @@
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
-- [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (29)
-- [math](#math) (10)
-- [number theory](#number-theory) (1)
-- [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (3)
-- [strings](#strings) (11)
-- [two pointers](#two-pointers) (1)
+- [*Special](#special) (1)
+- [Brute force](#brute-force) (6)
+- [Constructive Algorithms](#constructive-algorithms) (1)
+- [Graph matchings](#graph-matchings) (1)
+- [Greedy](#greedy) (6)
+- [Implementation](#implementation) (29)
+- [Math](#math) (10)
+- [Number Theory](#number-theory) (1)
+- [Shortest Paths](#shortest-paths) (1)
+- [Sortings](#sortings) (3)
+- [Strings](#strings) (11)
+- [Two Pointers](#two-pointers) (1)
 
 ---
 
