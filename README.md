@@ -6,29 +6,106 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 29 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
-- [sortings](#sortings) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (5)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (21)
+- [math](#math) (6)
+- [sortings](#sortings) (2)
+- [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/116/A%20-%20Tram/solution.java) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 8](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 
 ### two pointers
 
