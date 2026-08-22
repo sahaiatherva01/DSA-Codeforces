@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 7 |
+| 4 | 7 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
-- [number theory](#number-theory) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 
 ---
@@ -51,12 +51,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 
 ### sortings
 
