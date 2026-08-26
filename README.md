@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 89 | 15 |
+| 90 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (62)
+- [implementation](#implementation) (63)
 - [math](#math) (26)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
@@ -146,6 +146,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.java) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/344/A%20-%20Magnets/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
