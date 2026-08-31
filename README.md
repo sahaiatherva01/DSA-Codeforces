@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 107 | 19 |
+| 108 | 20 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (4)
-- [data structures](#data-structures) (1)
-- [dp](#dp) (5)
+- [data structures](#data-structures) (2)
+- [dp](#dp) (6)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
@@ -26,6 +26,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (75)
 - [math](#math) (30)
+- [matrices](#matrices) (1)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (12)
@@ -92,6 +93,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+| 2257F1 | [Beaver's Jumping Track (Easy Version)](https://codeforces.com/contest/2257/problem/F1) | 2500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/F1%20-%20Beaver's%20Jumping%20Track%20(Easy%20Version)/solution.java) |
 
 ### dp
 
@@ -102,6 +104,7 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+| 2257F1 | [Beaver's Jumping Track (Easy Version)](https://codeforces.com/contest/2257/problem/F1) | 2500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/F1%20-%20Beaver's%20Jumping%20Track%20(Easy%20Version)/solution.java) |
 
 ### expression parsing
 
@@ -264,6 +267,12 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+
+### matrices
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257F1 | [Beaver's Jumping Track (Easy Version)](https://codeforces.com/contest/2257/problem/F1) | 2500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/F1%20-%20Beaver's%20Jumping%20Track%20(Easy%20Version)/solution.java) |
 
 ### number theory
 
