@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 109 | 20 |
+| 110 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -24,14 +24,14 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (19)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (76)
-- [math](#math) (30)
+- [implementation](#implementation) (77)
+- [math](#math) (31)
 - [matrices](#matrices) (1)
-- [number theory](#number-theory) (4)
+- [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (12)
 - [strings](#strings) (16)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -50,6 +50,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/279/B%20-%20Books/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### bitmasks
 
@@ -234,6 +235,7 @@
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### math
 
@@ -269,6 +271,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### matrices
 
@@ -284,6 +287,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ### shortest paths
 
@@ -337,6 +341,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
+| 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
 
 ---
 
