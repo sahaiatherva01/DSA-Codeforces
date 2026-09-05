@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 118 | 20 |
+| 119 | 20 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (81)
+- [implementation](#implementation) (82)
 - [math](#math) (34)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (13)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -239,6 +239,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.java) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.java) |
@@ -348,6 +349,7 @@
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 
 ### two pointers
