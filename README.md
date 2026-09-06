@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 119 | 20 |
+| 120 | 20 |
 
 ---
 
@@ -16,21 +16,21 @@
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (19)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (7)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (20)
+- [greedy](#greedy) (21)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (82)
+- [implementation](#implementation) (83)
 - [math](#math) (34)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (13)
-- [strings](#strings) (18)
+- [strings](#strings) (19)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -92,6 +92,7 @@
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ### data structures
 
@@ -152,6 +153,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.java) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.java) |
@@ -244,6 +246,7 @@
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.java) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
@@ -350,6 +353,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 
 ### two pointers
