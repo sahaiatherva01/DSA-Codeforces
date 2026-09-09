@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 122 | 20 |
+| 123 | 21 |
 
 ---
 
@@ -25,9 +25,10 @@
 - [greedy](#greedy) (22)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (83)
-- [math](#math) (35)
+- [math](#math) (36)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
+- [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (13)
 - [strings](#strings) (20)
@@ -261,6 +262,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
@@ -310,6 +312,12 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.java) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
 
 ### shortest paths
 
