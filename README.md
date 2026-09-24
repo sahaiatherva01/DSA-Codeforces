@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 130 | 23 |
+| 131 | 23 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (88)
+- [implementation](#implementation) (89)
 - [math](#math) (37)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
@@ -244,6 +244,7 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.java) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
+| 703A | [Mishka and Game](https://codeforces.com/contest/703/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/703/A%20-%20Mishka%20and%20Game/solution.java) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/705/A%20-%20Hulk/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
