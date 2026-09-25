@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 131 | 23 |
+| 132 | 23 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (89)
+- [implementation](#implementation) (90)
 - [math](#math) (37)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
@@ -264,6 +264,7 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.java) |
+| 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1722/A%20-%20Spell%20Check/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
