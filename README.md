@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 133 | 23 |
+| 134 | 23 |
 
 ---
 
@@ -18,15 +18,15 @@
 - [brute force](#brute-force) (21)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (4)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (7)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (90)
+- [implementation](#implementation) (91)
 - [math](#math) (38)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
@@ -114,6 +114,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.java) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 
 ### dp
@@ -151,6 +152,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.java) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.java) |
 
 ### greedy
@@ -237,6 +239,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.java) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.java) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
