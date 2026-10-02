@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 136 | 23 |
+| 137 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [greedy](#greedy) (25)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (91)
-- [math](#math) (39)
+- [math](#math) (40)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
@@ -320,6 +320,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1367/B%20-%20Even%20Array/solution.java) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.java) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.java) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
