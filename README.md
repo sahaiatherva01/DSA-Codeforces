@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 140 | 23 |
+| 141 | 23 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (26)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (91)
+- [implementation](#implementation) (92)
 - [math](#math) (42)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
@@ -287,6 +287,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
+| 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
