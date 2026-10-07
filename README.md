@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 139 | 23 |
+| 140 | 23 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (2)
@@ -24,10 +24,10 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (91)
-- [math](#math) (41)
+- [math](#math) (42)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
 - [probabilities](#probabilities) (1)
@@ -87,6 +87,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.java) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.java) |
+| 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
@@ -181,6 +182,7 @@
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.java) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.java) |
+| 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
@@ -327,6 +329,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.java) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.java) |
+| 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/B%20-%20Good%20Kid/solution.java) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/sahaiatherva01/DSA-Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
